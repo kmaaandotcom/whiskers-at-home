@@ -7,7 +7,7 @@
 export const firebaseConfig = {
   apiKey: "AIzaSyBdfK3Fca5MSoOUH_bVvWK2JhKKpmJcN7M",
   authDomain: "whisker-at-home.firebaseapp.com",
-  databaseURL: https://console.firebase.google.com/project/whisker-at-home/database/whisker-at-home-default-rtdb/data/~2F,
+  databaseURL: "https://whisker-at-home-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "whisker-at-home",
   storageBucket: "whisker-at-home.firebasestorage.app",
   messagingSenderId: "180259098995",
